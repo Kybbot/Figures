@@ -1,0 +1,1 @@
+new App(new Storage()).init();
